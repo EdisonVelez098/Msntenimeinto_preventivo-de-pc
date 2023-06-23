@@ -4,3 +4,22 @@ Mantenimeinto preventivo de lapto ASER
 https://youtu.be/0_CFjvdDrI8
 Proyecto_mantenimiento_Grupo#4.pdf
 [Taller2.1_mantenimiento_de_fuente_EdisonVelez.pdf](https://github.com/EdisonVelez098/Msntenimeinto_preventivo-de-pc/files/11793472/Taller2.1_mantenimiento_de_fuente_EdisonVelez.pdf)
+
+**********************************************************************************************************************************************************************
+Mantenimiento preventivo de la fuente de poder
+Grupo 
+Calispa Cristian
+Velez Edison
+Villa Aguagallo
+
+
+Imagen 
+![Imagen de WhatsApp 2023-06-20 a las 19 39 49](https://github.com/EdisonVelez098/Msntenimeinto_preventivo-de-pc/assets/136014345/76a9e3be-86be-4c9a-89f8-edbed2315fa0)
+
+
+Link video
+https://www.youtube.com/watch?v=O8VYWz2TZXU
+
+Informe del mantenimiwnto preventivo de la fuente de poder:
+[Lab.1. Clasificar Mediante Código De Colores Las Características De Los Conectores De La Fuente De Poder.EdisonVelez.pdf](https://github.com/EdisonVelez098/Msntenimeinto_preventivo-de-pc/files/11843337/Lab.1.Clasificar.Mediante.Codigo.De.Colores.Las.Caracteristicas.De.Los.Conectores.De.La.Fuente.De.Poder.EdisonVelez.pdf)
+
