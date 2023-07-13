@@ -33,7 +33,11 @@ VELEZ PORRAS EDISON jOSE
 VILLA AGUAGALLO ANDRES JESUS
 
 ![image](https://github.com/EdisonVelez098/Msntenimeinto_preventivo-de-pc/assets/136014345/72e12f3d-f0ab-42aa-bdf1-a44e0359d8bf)
+
+
 Informe:
+
+
 [Lab.2.Mantenimiento correctivo en Laptops.EdisonVelez.pdf](https://github.com/EdisonVelez098/Msntenimeinto_preventivo-de-pc/files/12034193/Lab.2.Mantenimiento.correctivo.en.Laptops.EdisonVelez.pdf)
 
 Adjunto link del videodel mantenimiento: https://youtu.be/Cb0DdsP-rHo
