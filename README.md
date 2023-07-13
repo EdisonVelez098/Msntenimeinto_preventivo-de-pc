@@ -23,3 +23,17 @@ https://www.youtube.com/watch?v=O8VYWz2TZXU
 Informe del mantenimiwnto preventivo de la fuente de poder:
 [Lab.1. Clasificar Mediante Código De Colores Las Características De Los Conectores De La Fuente De Poder.EdisonVelez.pdf](https://github.com/EdisonVelez098/Msntenimeinto_preventivo-de-pc/files/11843337/Lab.1.Clasificar.Mediante.Codigo.De.Colores.Las.Caracteristicas.De.Los.Conectores.De.La.Fuente.De.Poder.EdisonVelez.pdf)
 
+MANTENIMEINTO PREVENTIVO Y CORRECTIVO DE UNA LAPTOP
+
+INTEGRANTES:
+CALISPA JATIVA CRISTIAN ADAN
+
+VELEZ PORRAS EDISON jOSE
+
+VILLA AGUAGALLO ANDRES JESUS
+
+![image](https://github.com/EdisonVelez098/Msntenimeinto_preventivo-de-pc/assets/136014345/72e12f3d-f0ab-42aa-bdf1-a44e0359d8bf)
+Informe:
+[Lab.2.Mantenimiento correctivo en Laptops.EdisonVelez.pdf](https://github.com/EdisonVelez098/Msntenimeinto_preventivo-de-pc/files/12034193/Lab.2.Mantenimiento.correctivo.en.Laptops.EdisonVelez.pdf)
+
+Adjunto link del videodel mantenimiento: https://youtu.be/Cb0DdsP-rHo
